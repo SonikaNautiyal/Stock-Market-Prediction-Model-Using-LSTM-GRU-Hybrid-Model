@@ -12,10 +12,14 @@ computational efficiency
 
  
 The model's performance was assessed using several metrics:
+
 • Mean Absolute Error (MAE)
 • Mean Squared Error (MSE)
 • Root Mean Squared Error (RMSE)
-4.3. Training Performance
+
+
+Training Performance :  
+
 During training, the hybrid model demonstrated robust convergence. The loss function, monitored 
 through Mean Squared Error, consistently decreased over epochs, indicating effective learning. The 
 addition of dropout layers and early stopping techniques mitigated overfitting, ensuring the model 
